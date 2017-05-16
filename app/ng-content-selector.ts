@@ -25,6 +25,7 @@ class ChildComponent {}
       <div>This div is defined in the Parent's template</div>
       <child>
         <div class="header" >Child got this header from parent {{todaysDate}}</div>
+        <div class="header" >Here's another header</div>
         <div class="footer">Child got this footer from parent</div>
       </child>
     </div>
